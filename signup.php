@@ -127,7 +127,7 @@ error:function (){}
                                         
 <div class="form-group">
 <label>Ingrese correo electrónico</label>
-<input class="form-control" type="email" name="email" id="emailid" onBlur="checkAvailability()"  autocomplete="off" required  />
+<input class="form-control" type="email" name="email" id="emailid" onBlur="checkAvailability()"  autocomplete="off" pattern=".+@utsalamanca.edu.mx" required  />
    <span id="user-availability-status" style="font-size:12px;"></span> 
 </div>
 
