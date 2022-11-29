@@ -1,20 +1,7 @@
 ﻿
-/*=============================================================
-    Authour URI: www.binarytheme.com
-    License: Commons Attribution 3.0
-
-    http://creativecommons.org/licenses/by/3.0/
-
-    100% Free To use For Personal And Commercial Use.
-    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
-   
-    ========================================================  */
-
-
-
-/* =============================================================
+/* 
    GENERAL STYLES
- ============================================================ */
+*/
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -30,6 +17,7 @@ body {
     margin-top: 40px;
     min-height:800px;
     padding-bottom:90px;
+   
 }
 .header-line {
     font-weight:900;
@@ -51,7 +39,7 @@ body {
     padding: 20px;
 }
 #menu-top a {
-    color:#000;
+    color:rgb(0, 0, 0);
     text-decoration:none;
     font-weight:500;
     padding: 25px 15px 25px 15px;
@@ -59,15 +47,15 @@ body {
 
 }
 .menu-section {
-    background-color: #f7f7f7;
-    border-bottom:5px solid #3e2974;
+    background-color: #9ED5C5;
+    border-bottom:5px solid #eeebf5;
     width:100%
 }
 .menu-top-active {
     background-color:#eeeeee;
 }
 .navbar-inverse {
-background-color: #FFF;
+background-color: #8EC3B0;
 border-color: rgba(155, 153, 153, 0.23);
 
 }
@@ -75,7 +63,8 @@ border-color: rgba(155, 153, 153, 0.23);
 .navbar {
     min-height: 90px;
     margin-bottom: 0px;
-   
+  
+    
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color:transparent;
@@ -101,7 +90,7 @@ height: 60px;
 }
 
 .slide-bdr {
-   border:5px solid #9170E4
+   border:5px solid #71C9CE
 }
 .chat-widget-left:after {
     top: 100%;
@@ -209,13 +198,12 @@ height: 60px;
     padding:25px 50px 25px 50px;
     color:#000;
     font-size:13px;
-      background-color: #f7f7f7;
+      background-color: #9ED5C5;
       text-align:right;
-       border-top:5px solid #9170E4;
+       border-top:5px solid #fcfbff;
 
 }
 
     .footer-section a, .footer-section a:hover {
         color:#000;
     }
-
