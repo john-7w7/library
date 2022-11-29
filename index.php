@@ -85,7 +85,7 @@ echo "<script>alert('Invalid Details');</script>";
 
 <div class="form-group">
 <label>Escribe tu correo (Solo correo institucional).</label>
-<input class="form-control" type="text" name="emailid" required autocomplete="off" pattern="+@utsalamanca.edu.mx"/>
+<input class="form-control" type="text" name="emailid" required autocomplete="off" pattern=".+@utsalamanca.edu.mx"/>
 </div>
 <div class="form-group">
 <label>Contraseña</label>
